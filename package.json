@@ -1,0 +1,28 @@
+{	"name" : "number-adjective-animal",
+	"version" : "1.0.0",
+	"license" : "MIT",
+	"description" : "Generates easy-to-read passwords with a pattern of NumberAdjectiveAnimal.",
+	"author" : {
+		"name" : "Derek Mullin",
+		"email" : "derekmullin+ghnpm@gmail.com"
+	},
+	"contributors" : [
+		{	"name" : "Derek Mullin",
+			"email" : "derekmullin+ghnpm@gmail.com"
+		}
+	],
+	"main" : "./index.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/echicken/number-adjective-animal.git"
+	},
+	"engines" : {
+		"node" : ">= 0.10.24"
+	},
+	"keywords" : [
+		"password",
+		"PasswordGenerator",
+		"unicodepwd",
+		"ActiveDirectoryPassword"
+	]
+}
